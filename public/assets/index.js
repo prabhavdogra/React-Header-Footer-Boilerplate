@@ -1,0 +1,1 @@
+// document.getElementById("float1").classList.add("floating");
