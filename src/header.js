@@ -25,7 +25,7 @@ class Navbar extends Component {
 					</div>
 					<div id="navbox-tabs">
 						<div className="navElements hide"><a href="#"> Home </a></div>
-						<div className="navElements hide"><a href="#"> Visualisers </a></div>
+						<div className="navElements hide"><a href="visualiser.html"> Visualisers </a></div>
 						<div className="navElements hide"><a href="#"> Snippets </a></div>
 						<div className="navElements hide"><a href="#"> Resources </a></div>
 						<div className="navElements hide"><a href="#"> About Me </a></div>
